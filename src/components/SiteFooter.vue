@@ -8,8 +8,8 @@
 <li><a class="lk" href="#" target="_blank" rel="noopener noreferrer"><g-image alt="" src="~/assets/images/icon/footer/linkedin-in-brands.svg" /></a></li>
 </ul> -->
 
-    <p>JAMstack of App di Incontri | Dev by <a href="https://andreatasselli.net/">Andrea Tasselli</a></p>
-    <p><a href="https://www.appdiincontri.it/privacy-policy-di-www-appdiincontri-it/" title="privacy Policy">Privacy e Cookie Policy</a> <br>Questo sito non ha scopo di lucro e non monetizza in alcun modo </p>
+    <p>JAMstack of TokeJam</p>
+    <p>Questo sito non ha scopo di lucro e non monetizza in alcun modo. Non utilizza i cookie e non profila alcunché. </p>
   </footer>
 </template>
 
